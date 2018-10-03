@@ -14,7 +14,7 @@
 - Onyx coffee - Tontitown
 
 ## Conferences
-- NWA Techfest - [https://nwatechfest.com/]{https://nwatechfest.com/}
+- NWA Techfest - [https://nwatechfest.com/](https://nwatechfest.com/)
 - Nowhere Developers - [https://www.nowheredevelopers.com/](https://www.nowheredevelopers.com/)
 
 ## Events
