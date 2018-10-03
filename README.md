@@ -7,6 +7,6 @@ NWA Developers Slack [https://nwa-devs-slackgroup.herokuapp.com/](https://nwa-de
 
 ## Coffee Shops
 
-## Confereneces
+## Conferences
 
 ## Bootcamps
