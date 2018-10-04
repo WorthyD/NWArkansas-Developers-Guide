@@ -8,10 +8,10 @@
 - { fayetteville.js }; - [https://www.meetup.com/fayettevillejs/](https://www.meetup.com/fayettevillejs/)
 
 ## Coffee Shops
-- The Haller - [https://leisurlist.com/feed/venue/the-holler-a-local-hangout/details](https://leisurlist.com/feed/venue/the-holler-a-local-hangout/details)
+- The Holler - [https://leisurlist.com/feed/venue/the-holler-a-local-hangout/details](https://leisurlist.com/feed/venue/the-holler-a-local-hangout/details)
 - Bolder Coffee - Rogers
 - Cave Springs Coffee - Cave Springs
-- Onyx coffee - Tontitown
+- Onyx Coffee Lab - Tontitown/West Springdale, Bentonville, Fayetteville
 
 ## Conferences
 - NWA Techfest - [https://nwatechfest.com/](https://nwatechfest.com/)
