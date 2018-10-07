@@ -11,11 +11,13 @@
 
 ## Coffee Shops
 - The Holler - [https://leisurlist.com/feed/venue/the-holler-a-local-hangout/details](https://leisurlist.com/feed/venue/the-holler-a-local-hangout/details)
-- Bolder Coffee - Rogers
+- Bolder Coffee - Rogers/Fayetteville [https://drinkbolder.com/](https://drinkbolder.com/)
 - Iron Horse Coffee - Rogers
 - Cave Springs Coffee - Cave Springs
 - The Grounds - Fayetteville
 - Onyx Coffee Lab - Tontitown/West Springdale, Bentonville, Fayetteville
+- Mama Carmen's - Fayetteville [https://www.facebook.com/mamacarmens/](https://www.facebook.com/mamacarmens/)
+- Arsaga's Coffee Roasters - Fayetteville [http://arsagas.com/](http://arsagas.com/)
 
 ## Conferences
 - NWA Techfest - [https://nwatechfest.com/](https://nwatechfest.com/)
