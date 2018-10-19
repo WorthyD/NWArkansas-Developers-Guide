@@ -18,6 +18,7 @@
 - Onyx Coffee Lab - Tontitown/West Springdale, Bentonville, Fayetteville
 - Mama Carmen's - Fayetteville [https://www.facebook.com/mamacarmens/](https://www.facebook.com/mamacarmens/)
 - Arsaga's Coffee Roasters - Fayetteville [http://arsagas.com/](http://arsagas.com/)
+- Doomsday Coffee & Roasterie - Fayetteville [http://www.doomsday.coffee/](http://www.doomsday.coffee/)
 
 ## Conferences
 - NWA Techfest - [https://nwatechfest.com/](https://nwatechfest.com/)
